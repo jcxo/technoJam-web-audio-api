@@ -1,4 +1,4 @@
-# technoJam – Web Audio API
+# TECHNO JAM – Web Audio API
 
 ## Challenge 1
 - Simple synth
