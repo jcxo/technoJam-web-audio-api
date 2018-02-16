@@ -1,7 +1,7 @@
 # TECHNO JAM – Web Audio API
 Techno Jams are regular and monitored challenges to learn together a programming language dedicated to audio or music creation.
 
-## Challenge 1
+## Challenge 1 *(17/02/18)*
 - [ ] Simple synth
 - [ ] Drum machine
 - [ ] Step sequencer
