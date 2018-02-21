@@ -7,6 +7,10 @@ Techno Jams are regular and monitored challenges to learn together a programming
 - [ ] ~~Drum machine~~
 - [ ] ~~Step sequencer~~
 
+## Challenge 2 *(03/03/18)*
+## Challenge 3 *(xx/xx/18)*
+## Challenge 4 *(xx/xx/18)*
+
 ## Documentation
 ### First approach
 - [Web Audio API](http://devdocs.io/dom/web_audio_api)
